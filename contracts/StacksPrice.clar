@@ -1,7 +1,13 @@
+
+;; Title: StacksPrice (Stacks Price Oracle) Aggregator
+;; depo-aggregator.clar
+
+;; title: Stacks Price aggregator
+=======
 ;; Title: StacksPrice (StacksPrice Oracle) Aggregator
 ;; StacksPrice aggregator.clar
 
-;; title: StacksPrice aggregator
+;; title: StacksPrice aggregan
 ;; version:
 ;; summary:
 ;; description:
