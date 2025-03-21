@@ -1,7 +1,7 @@
-;; Title: DePo (Decentralized Price Oracle) Aggregator
-;; depo-aggregator.clar
+;; Title: StacksPrice (StacksPrice Oracle) Aggregator
+;; StacksPrice aggregator.clar
 
-;; title: depo-aggregator
+;; title: StacksPrice aggregator
 ;; version:
 ;; summary:
 ;; description:
