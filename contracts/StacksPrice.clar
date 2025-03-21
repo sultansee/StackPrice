@@ -254,6 +254,7 @@
   (ok (map-get? causes {cause-id: cause-id}))
 )
 
+;; disburse funds
 (define-public (disburse-funds (cause-id uint))
   (let
     (
